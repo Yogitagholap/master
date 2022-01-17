@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.javatpoint.model.emailsending;
 import com.javatpoint.service.emailsendingService;
 
+
+
 //mark class as Controller
 @RestController
 public class EmailController {
