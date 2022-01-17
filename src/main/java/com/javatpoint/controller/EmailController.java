@@ -19,7 +19,6 @@ public class EmailController {
 	@Autowired
 	 emailsendingService emailSending;
 	
-
 //creating a get mapping that retrieves all the Email detail from the database 
 	@GetMapping("/emailsending")
 	private List<emailsending> getAllEmail() {
