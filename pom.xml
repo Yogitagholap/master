@@ -8,6 +8,7 @@
     <version>2.3.2.RELEASE</version>
     <relativePath /> <!-- lookup parent from repository -->
     
+    
 </parent>
 	<groupId>com.javatpoint</groupId>
 	<artifactId>spring-boot-crud-operation</artifactId>
