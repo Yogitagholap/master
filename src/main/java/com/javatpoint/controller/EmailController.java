@@ -25,6 +25,8 @@ public class EmailController {
 		return emailSending.getAllEmail();
 	}
 	
+	
+	
 	@GetMapping("/emailsending11")
 	private void getSendEmail() {
 		 emailSending.getSendEmail();
