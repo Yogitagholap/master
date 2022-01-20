@@ -9,8 +9,6 @@
     <relativePath /> <!-- lookup parent from repository --> 
 </parent>
 
-
-
 	<groupId>com.javatpoint</groupId>
 	<artifactId>spring-boot-crud-operation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
